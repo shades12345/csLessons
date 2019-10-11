@@ -11,7 +11,7 @@ Step 1: Understand the problem
   numbers. We take the 3rd number and compare it with the other unsorted numbers and swap it with the smallest unsorted number, now we have
   3 sorted numbers. We take the 4th number and compare it with the other number and swap it if it is smaller than the 4th number, now we 
   have 5 sorted numbers. >>
-  
+ 
   a. Select the first number
   b. Compare it with the next numbers numbers and find which one is the smallest.
   c. Now select the smaller number and compare it with the next. Find which one is smaller.
@@ -19,6 +19,14 @@ Step 1: Understand the problem
   e. Replace the smallest number with the first number of the series.
   f. Forget about the first number and start the process with the next number. Until we finish the whole list.
   
+  step 3: Formulate an algorithm
+  
+  a. Select a box in the memory (selection box)
+  b. Paste the first value from the number's to the selection box
+  c. Compare with the other numbers to find the smallest number and put it in the selection box
+  d. we put the first number in the place of the smallest one
+  e. we put the number from the selection box and put it in the first place
+  f. repeat the step b to e starting from the second number
   
   
   Video link: https://www.youtube.com/watch?v=xWBP4lzkoyM
