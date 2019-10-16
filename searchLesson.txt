@@ -1,0 +1,6 @@
+Linear search:
+
+a. select the firsat number
+b. compare the number with the others
+c [variant 1]. if is not equal then go on to the next number and compare it
+c [variant 2]. if is equal then you stop ( and maybe celebrate that you found it :) )
