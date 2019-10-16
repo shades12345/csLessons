@@ -14,3 +14,12 @@ b. Compare the number in the middle with the list
 c [variant 1]. if the number is equal to the search number, then exit
 c [variant 2]. if number is > than search number repeat step a and b for the first half
 c [variant 3]. if number is < than search number repeat step a and b for the second half
+
+
+
+Find prime number:
+a. Divide number by 2
+b. Check if rest = 0 or not
+c [variant 1]. if rest = 0 exit : number is not prime
+c [variant 2]. if rest innot equal to zero repeat step a and b by adding 1 to the previous number 
+d. If we reach the original number than number is prime number
