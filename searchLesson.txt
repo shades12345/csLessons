@@ -4,3 +4,13 @@ a. select the firsat number
 b. compare the number with the others
 c [variant 1]. if is not equal then go on to the next number and compare it
 c [variant 2]. if is equal then you stop ( and maybe celebrate that you found it :) )
+
+
+
+Binary search:
+
+a. Find the middle pos. of the list
+b. Compare the number in the middle with the list
+c [variant 1]. if the number is equal to the search number, then exit
+c [variant 2]. if number is > than search number repeat step a and b for the first half
+c [variant 3]. if number is < than search number repeat step a and b for the second half
