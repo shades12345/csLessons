@@ -1,0 +1,9 @@
+Finding if prime number:
+
+a. we divide it by 2
+b1. if is perfectly divided is not prime = answer not prime
+b2. if is not perfectly divided we forget about the numbers that are bigger than quotient (cat)
+c. we divide with the next number
+d1. if is perfectly divided si not prime = answer not prime
+d2. if is not perfectly divided we forget about the numbers that are bigger than the new quotient (cat)
+e. we repeat the process until we try to divide all numbers that count
