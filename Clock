@@ -14,7 +14,7 @@ clock1:
 clock2(my favorite one):
 
 >>> def Clock():
-...     InputSecs = eval(input("Select a number: "))
+...     InputSecs = eval(input("Select a number of seconds: "))
 ...     mins = InputSecs//60
 ...     hours = mins//60
 ...     finalMins = mins%60
