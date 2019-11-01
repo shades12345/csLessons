@@ -1,0 +1,24 @@
+
+clock1:
+
+>>> def clock():
+...     InputSecs = 3929
+...     mins = InputSecs//60
+...     hours = mins//60
+...     finalMins = mins%60
+...     print ("Hours:",hours,"|","Mins:",finalMins)
+...
+
+
+
+clock2(my favorite one):
+
+>>> def Clock():
+...     InputSecs = eval(input("Select a number: "))
+...     mins = InputSecs//60
+...     hours = mins//60
+...     finalMins = mins%60
+...     print ("Hours:",hours,"|","Mins:",finalMins)
+...
+
+
