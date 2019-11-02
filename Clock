@@ -1,4 +1,4 @@
-
+  
 clock1:
 
 >>> def clock():
@@ -18,7 +18,8 @@ clock2(my favorite one):
 ...     mins = InputSecs//60
 ...     hours = mins//60
 ...     finalMins = mins%60
-...     print ("Hours:",hours,"|","Mins:",finalMins)
+...     finalSecs = InputSecs%60
+...     print ("Hours:",hours,"|","Mins:",finalMins,"|","Secs:",finalSecs)
 ...
 
 
