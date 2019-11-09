@@ -1,0 +1,19 @@
+
+Age listing1:
+
+
+>>> def SearchNumber(input):
+...     age = [4,7,18,23,27,29]
+...     if input == age[0]:
+...             print ("Selected number is in the list")
+...     if input == age[1]:
+...             print ("Selected number is in the list")
+...     if input == age[2]:
+...             print ("Selected number is in the list")
+...     if input == age[3]:
+...             print ("Selected number is in the list")
+...     if input == age[4]:
+...             print ("Selected number is in the list")
+...     if input == age[5]:
+...             print ("Selected number is in the list")
+...
