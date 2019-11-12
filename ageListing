@@ -29,3 +29,16 @@ Age listing 2:
 ...     else:
 ...             print ("Selected number is NOT in the list")
 ...
+
+
+age listing using loops:
+
+ def SearchNumber (input):
+...     ages = [4,7,18,23,27,29]
+...     for age in ages:
+...             if input == age:
+...                     print ("found")
+...             else:
+...                     print ("NOT found")
+...                     continue
+...
