@@ -40,5 +40,4 @@ age listing using loops:
 ...                     print ("found")
 ...             else:
 ...                     print ("NOT found")
-...                     continue
 ...
