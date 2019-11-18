@@ -4,7 +4,7 @@
 
 >>> def dis(d):
 ...     min = d
-...     h = mis // 60
+...     h = min // 60
 ...     if s >= 400:
 ...             print("ia o pauza")
 ...     else:
