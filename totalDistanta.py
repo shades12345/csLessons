@@ -1,13 +1,11 @@
 
 
 
-
->>> def dis(d):
-...     min = d
-...     h = min // 60
-...     if s >= 400:
-...             print("ia o pauza")
-...     else:
-...             print("with a speed of 60 km/h you will be driving for", h, "hours and", min, "minutes")
-... 
->>> 
+def dis(s):
+    distance = s*1
+      if distance >= 400:
+          print ("you traveled 400 or more km, go to sleep")
+      else:
+          print("you traveled only", distance, "DRIVE WILD!!")
+          
+          
