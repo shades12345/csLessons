@@ -1,6 +1,7 @@
 
 
 
+
 >>> def distDisplay(s):
 ...     t = 1
 ...     d = s*t
